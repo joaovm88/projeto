@@ -1,5 +1,8 @@
 # DocPipeline — Pipeline Assíncrono de Ingestão e Processamento de Documentos
 
+[![CI](https://github.com/joaovm88/projeto/actions/workflows/ci.yml/badge.svg)](https://github.com/joaovm88/projeto/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Pipeline distribuído e assíncrono para ingestão, sanitização e estruturação de
 documentos textuais não estruturados em larga escala. Inspirado nos desafios reais
 de empresas de tecnologia jurídica e processamento intensivo de dados (como a
